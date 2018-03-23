@@ -52,7 +52,7 @@ Once you can run the [`hello-world` image](https://docs.docker.com/get-started/#
 
 ## Use the Docker image 
 
-First-time builders, run the following in a terminal, **substituting $you with your username!**
+First-time builders, run the following in a terminal, **substituting `user` with your username!**
 If you've built before, substitute the default paths for the ones you already have, and have configured. 
 
 &nbsp;
